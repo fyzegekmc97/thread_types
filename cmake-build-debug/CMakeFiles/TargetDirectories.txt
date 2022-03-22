@@ -1,0 +1,3 @@
+/home/feyzi/CLionProjects/thread_types/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/feyzi/CLionProjects/thread_types/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/feyzi/CLionProjects/thread_types/cmake-build-debug/CMakeFiles/thread_types.dir
